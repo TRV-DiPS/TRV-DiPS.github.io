@@ -1,0 +1,20 @@
+.round-img {
+	width: 90px;
+	height: 90px;
+}
+.btn-download {
+	text-decoration: none;
+    padding: 10px 20px;
+    display: inline-block;
+    border-radius: 24px;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 700;
+    background-color: #4CAF50;
+    color: #fff;
+    letter-spacing: 1px;
+}
+.product-img {
+	width: 300px;
+	height: 300px;
+}
